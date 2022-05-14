@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Practice Room",
+        "image": "https://github.com/AllDeus/PracticeRoom/blob/main/public/img/Screenshot.png",
+        "github": "https://github.com/AllDeus/PracticeRoom",
+        "deploy": "https://immense-savannah-04794.herokuapp.com/"
+    },
+    {
+        "id": 2,
+        "name": "Travel App",
+        "image": "https://github.com/kpehl/week-in-view/raw/main/media/week-in-view.png",
+        "github": "https://github.com/AllDeus/GroupProjectRepo",
+        "deploy": "https://average-android.github.io/GroupProjectRepo/"
+    },
+    {
+        "id": 3,
+        "name": "Password Generator",
+        "image": "https://user-images.githubusercontent.com/87239985/153085977-9bc09d14-c061-4734-b69c-6e2f310cf713.png",
+        "github": "https://github.com/AllDeus/Password-Generator",
+        "deploy": "https://alldeus.github.io/Password-Generator/"
+    },
+    {
+        "id": 4,
+        "name": "Weather Dashboard",
+        "image": "https://user-images.githubusercontent.com/87239985/151896976-7a773363-8f99-4bdb-be92-23068801a943.PNG",
+        "github": "https://github.com/AllDeus/Weather-Dashboard",
+        "deploy": "https://alldeus.github.io/Weather-Dashboard/"
+    }
+]
